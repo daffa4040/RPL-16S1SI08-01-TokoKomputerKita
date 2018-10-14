@@ -10,7 +10,7 @@ UNIVERSITAS AMIKOM YOGYAKARTA 2018
 * Rayhan Dwi Fajar.	        (16.12.9466)
 * Alif Daffa Hernanda.	    (16.12.9470)
 * Anwar Nabawi.	            (16.12.9512)
-* Reyhan Rizki Wijaya
+* Reyhan Rizki Wijaya       (15.12.8888)
 * Mariofiktorius
 
 
