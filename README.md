@@ -1,6 +1,6 @@
 # RPL-16S1SI08-01-TokoKomputerKita
 
-Klompok RPL Pembuatan Sistem Informasi Penjualan Toko Komputer Kita
+Kelompok RPL Pembuatan Sistem Informasi Penjualan Toko Komputer Kita
 
 
 UNIVERSITAS AMIKOM YOGYAKARTA 2018
@@ -13,6 +13,11 @@ UNIVERSITAS AMIKOM YOGYAKARTA 2018
 * Reyhan Rizki Wijaya          (15.12.8888)
 * Mario Fiktorius Soka Righo   (18.22.2226)
 
+<hr>
+<a href="https://media.giphy.com/media/26Ff4apIYqequNKI8/giphy.gif"><img src="https://media.giphy.com/media/26Ff4apIYqequNKI8/giphy.gif"></a>
+
+<hr>
+<a href="https://i.gifer.com/3otv.gif"><img src="https://i.gifer.com/3otv.gif"></a>
 
 
 Lala :D
